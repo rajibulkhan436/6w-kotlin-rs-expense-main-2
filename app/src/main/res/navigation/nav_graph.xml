@@ -27,5 +27,10 @@
         android:name="com.rajibul.expensetracker.HistoryFragment"
         android:label="fragment_history"
         tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/creditFragment"
+        android:name="com.rajibul.expensetracker.CreditFragment"
+        android:label="fragment_credit"
+        tools:layout="@layout/fragment_credit" />
 
 </navigation>

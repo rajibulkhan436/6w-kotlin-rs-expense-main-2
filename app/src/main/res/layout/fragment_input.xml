@@ -21,8 +21,8 @@
 
     <TextView
         android:id="@+id/tvCredit"
-        android:layout_width="368dp"
-        android:layout_height="191dp"
+        android:layout_width="match_parent"
+        android:layout_height="171dp"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:gravity="center"
@@ -31,8 +31,8 @@
         android:textColor="#FFFF" />
     <TextView
         android:id="@+id/tvDebit"
-        android:layout_width="368dp"
-        android:layout_height="191dp"
+        android:layout_width="match_parent"
+        android:layout_height="171dp"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:gravity="center"
